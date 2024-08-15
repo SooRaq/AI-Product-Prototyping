@@ -2,6 +2,7 @@
 Building an Air Quality Prediction App
 
 Factors affecting Air Quality:
+
 PM2.5 and PM10: Particulate matter
 
 NO, NO2, NOx: Nitrogen oxides
